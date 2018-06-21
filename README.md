@@ -1,8 +1,6 @@
-# SmartBrain-api - v1
-Final project for Udemy course
+# FaceRecognition-api - v1
+The following website gives opportunity for person to use a face recognition. The project is almost done, only login + registration are left
 
-1. Clone this repo
-2. Run `npm install`
-3. Run `npm start`
-
-** Make sure you use postgreSQL instead of mySQL for this code base.
+1) Clone this repo.
+2) Run npm install from your own computer.
+3) Run npm startfrom your own computer.
